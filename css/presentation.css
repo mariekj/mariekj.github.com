@@ -1,0 +1,10 @@
+.slides.template-mariekj > article:not(.nobackground):not(.biglogo) {
+        background: url(../images/SP2010logo.jpg) bottom right no-repeat;
+        background-color: white;  
+      }
+
+	p + iframe {
+	  margin-top: 40px;
+	}
+
+.slides.template-mariekj .source{ left: 200px;}
