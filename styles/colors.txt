@@ -1,0 +1,6 @@
+Orange sharp: FA6900
+Orange gold fish:F38630
+Off-white: E0E4CC
+Grey dark:36393B
+Grey light: 45484B
+Blue: A7DBD8
