@@ -1,4 +1,4 @@
-.slides.template-mariekj > article:not(.nobackground):not(.biglogo) {
+.slides.template-mariekj > article:not(.nobackground) {
         /*background: url(../images/SP2010logo.jpg) bottom right no-repeat;*/
         background-color: #E0E4CC;  
 		padding-top:50px;
@@ -12,3 +12,6 @@
 
 .slides.template-mariekj .source{ left: 200px;}
 
+.slides.layout-faux-widescreen > article{
+	padding-left:80px;
+}
